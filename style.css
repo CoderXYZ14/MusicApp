@@ -1,0 +1,7 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+    background-color: black;
+    color:white;
+    overflow:hidden; /*hidden as we wont only the main content to be scrollable */
+}
